@@ -12,6 +12,7 @@ Part of the **RISC-V International Academic \& Training SIG**.
 |-|-|-|
 |[pseudobingo](https://github.com/riscvthai/pseudobingo)|[pseudo.riscvthai.org](https://pseudo.riscvthai.org)|pseudo vs. real instructions|
 |[rvcbingo](https://github.com/riscvthai/rvcbingo)|[rvcbingo.riscvthai.org](https://rvcbingo.riscvthai.org)|RVC compressed instructions|
+|[jump-viz](https://github.com/riscvthai/jump-viz)|[jumpviz.riscvthai.org](https://jumpviz.riscvthai.org) | JAL/JALR control flow|
 
 No install. No login. Runs on a phone.
 
