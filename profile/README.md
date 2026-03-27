@@ -34,7 +34,7 @@ No install. No login. Runs on a phone.
 ## Resources
 
 🌐 [riscvthai.org](https://riscvthai.org) — Thai RISC-V educational hub  
-📚 [texthai.org](https://texthai.org) — Thai language typesetting with XeLaTeX  
+📚 [texthai.info](https://texthai.info) — Thai language typesetting with XeLaTeX  
 📬 [SIG mailing list](https://lists.riscv.org/g/sig-academia-training) — RISC-V Academic \& Training committee
 
 \---
