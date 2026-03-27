@@ -1,6 +1,6 @@
 # Thai RISC-V Association
 
-Educational games, tools, and resources for learning RISC-V — built for Thai university students and the global RISC-V community.
+Educational games, tools, and resources for learning RISC-V — built for university students and the global RISC-V community.
 
 Part of the **RISC-V International Academic \& Training SIG**.
 
