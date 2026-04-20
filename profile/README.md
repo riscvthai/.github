@@ -12,7 +12,8 @@ Part of the **RISC-V International Academic \& Training SIG**.
 |-|-|-|
 |[pseudobingo](https://github.com/riscvthai/pseudobingo)|[pseudo.riscvthai.org](https://pseudo.riscvthai.org)|pseudo vs. real instructions|
 |[rvcbingo](https://github.com/riscvthai/rvcbingo)|[rvcbingo.riscvthai.org](https://rvcbingo.riscvthai.org)|RVC compressed instructions|
-|[jump-viz](https://github.com/riscvthai/jump-viz)|[jumpviz.riscvthai.org](https://jumpviz.riscvthai.org) | JAL/JALR control flow|
+|[jump-viz](https://github.com/riscvthai/jump-viz)|[jumpviz.riscvthai.org](https://jumpviz.riscvthai.org)|JAL/JALR control flow|
+|[regpressure](https://github.com/riscvthai/regpressure)|[regpressure.riscvthai.org](https://regpressure.riscvthai.org)|the register file — GPR through PMP, all 7 layers|
 
 No install. No login. Runs on a phone.
 
@@ -25,8 +26,8 @@ No install. No login. Runs on a phone.
 
 ## Planned
 
-[fence](https://github.com/riscvthai/fence)  · 
-[poker](https://github.com/riscvthai/poker)  · 
+[fence](https://github.com/riscvthai/fence) ·
+[poker](https://github.com/riscvthai/poker) ·
 [pinext](https://github.com/riscvthai/pinext)
 
 \---
@@ -48,3 +49,4 @@ If you build something — open a PR or post to the SIG list.
 
 *Chair, RISC-V International Academic \& Training Committee: Paul Sherman*  
 *Contact: nu4you at riscvthai dot org*
+
