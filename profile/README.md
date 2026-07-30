@@ -14,6 +14,7 @@ Part of the **RISC-V International Academic \& Training SIG**.
 |[rvcbingo](https://github.com/riscvthai/rvcbingo)|[rvcbingo.riscvthai.org](https://rvcbingo.riscvthai.org)|RVC compressed instructions|
 |[jump-viz](https://github.com/riscvthai/jump-viz)|[jumpviz.riscvthai.org](https://jumpviz.riscvthai.org)|JAL/JALR control flow|
 |[regpressure](https://github.com/riscvthai/regpressure)|[regpressure.riscvthai.org](https://regpressure.riscvthai.org)|the register file — GPR through PMP, all 7 layers|
+| [rvgrace](https://github.com/riscvthai/rvgrace) | [rvgrace.riscvthai.org](https://rvgrace.riscvthai.org) | RISC-V assembly tutor — Grace Hopper persona, 6 phases, multilingual |
 
 No install. No login. Runs on a phone.
 
